@@ -23,9 +23,9 @@ int main()
 }
 
 /*
-	main
-	params:void
-	return: int 
+	perm
+	params:int n, int r
+	return: double 
 
 */
 double perm(int n, int r)
